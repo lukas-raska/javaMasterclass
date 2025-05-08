@@ -1,4 +1,4 @@
-package dev.lpa.section4._35;
+package dev.lpa.section4_basics._35;
 
 public class Hello {
 

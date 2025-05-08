@@ -1,4 +1,4 @@
-package dev.lpa.section4._33;
+package dev.lpa.section4_basics._33;
 
 public class FirstClass {
 
