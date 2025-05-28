@@ -1,4 +1,4 @@
-package dev.lpa.section6_conditional_logic._63.whileLoop;
+package dev.lpa.section6_conditional_logic._65.whileLoop;
 
 public class Main {
 
